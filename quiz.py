@@ -158,3 +158,4 @@ while v<=6:
     elif v==6:
         break
 print("developed by Anirudh Bishnoi")
+print("thanks for playing")
